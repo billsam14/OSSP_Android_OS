@@ -1,1 +1,1 @@
-# OSSP_Android_OS
+"My work demonstrates how to run Android OS on a PC using VMware, providing a practical alternative to physical devices for app testing and development. Through this project, I implemented a Linux system call (clock_settime) to modify system time, showcasing hands-on interaction with the operating system kernel. This exploration highlights the power of virtualization for safe experimentation while bridging theoretical OS concepts with real-world implementation."
